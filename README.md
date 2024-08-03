@@ -17,6 +17,6 @@ Welcome to the public repository for Rotten Popcorn. This repository provides an
 ### **Sign In Page**
 ![Sign In Page](https://github.com/user-attachments/assets/39f83756-a095-430e-8c3b-f3d62cbeec42)
 
-For the complete source code and development details, please refer to the private repository (access granted to authorized users only): 
-![Rotten Popcorn Laravel - Private Source Code](https://github.com/jaynevernice/rottenpopcorn-laravel.git)
-![Rotten Popcorn PHP - Private Source Code](https://github.com/jaynevernice/rottenpopcorn-php.git)
+For the complete source code and development details, please refer to the private repository (access granted to authorized users only):  
+[Rotten Popcorn Laravel - Private Source Code](https://github.com/jaynevernice/rottenpopcorn-laravel.git)  
+[Rotten Popcorn PHP - Private Source Code](https://github.com/jaynevernice/rottenpopcorn-php.git)  
